@@ -10,7 +10,7 @@ We were asked by the CEO of PyBer, a ride sharing app company, to create a summa
 
 Looking at the chart pictured below, we can see that the total number of rides, fares and number of drivers are far greater in the more urban areas versus the rural or suburban areas.  As a result, the rural and suburban cities have a far greater average fare per ride and higher average fare per driver.
 
-![alt text](url)
+![alt text](https://github.com/tmidcalf/PyBer_Analysis/blob/main/analysis/PyBer_chart_summary.png?raw=true)
 
 ### Graph Results
 

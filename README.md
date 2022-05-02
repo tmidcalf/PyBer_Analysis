@@ -10,7 +10,7 @@ We were asked by the CEO of PyBer, a ride sharing app company, to create a summa
 
 Looking at the chart pictured below, we can see that the total number of rides, fares and number of drivers are far greater in the more urban areas versus the rural or suburban areas.  As a result, the rural and suburban cities have a far greater average fare per ride and higher average fare per driver.
 
-![alt text](url)
+![alt text](https://github.com/tmidcalf/PyBer_Analysis/blob/main/analysis/PyBer_chart_summary.png?raw=true)
 
 ### Graph Results
 
@@ -19,3 +19,7 @@ From the graph pictured below, we can notice that the total fare amount is much 
 ![alt text](https://github.com/tmidcalf/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
 ## Summary
+
+- One suggestion I would make regarding disparities among the city types is to hire less drivers for the urban areas. As it stands, right now we can see there are more drivers than there are total rides. Ideally we would like to see more rides than drivers like we  see have in the rural and suburban areas.
+- Next, because the average fare per ride in the urban areas is nearly ten dollars less than the rural and six less than the suburban, I would suggest increasing the fare price for rides in urban areas. This would bring fares in urban areas closer to the averages of rural and suburban areas.
+- Last, I would suggest some sort of promotion for rides in the first weeks of January and March in the coming year. This helps promote the business in the slower weeks of the year.
